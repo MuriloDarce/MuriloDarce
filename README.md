@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">I'm a Computer Science student at the university FEI.<br><br>- 📚 I'm currently learning Pascal, COBOL, C#, Game Development and AI.<br>- ⚡ In my free time I like to learn new things, programming, read and play video games.</p>
+<p align="left">I'm a Computer Science student at the University of FEI.<br><br>- 📚 I'm currently learning Pascal, COBOL, C#, Game Development and AI.<br>- ⚡ In my free time, I like to learn new things, programming, read and play video games.</p>
 
 ###
 
